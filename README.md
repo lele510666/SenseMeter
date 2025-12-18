@@ -2,7 +2,7 @@
 Official page for SenseMeter app, including app information.
 # Privacy Policy - SenseMeter
 
-SenseMeter is a free utility app for daily sensor data monitoring (speed, altitude, acceleration, steps, noise, compass, etc.).
+SenseMeter is a free utility app for daily sensor data monitoring speed, altitude, acceleration, steps, noise, compass, etc.
 
 # Privacy Policy
 
