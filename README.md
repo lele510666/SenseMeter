@@ -26,3 +26,11 @@ These permissions are optional and can be managed in your device system settings
 - Version: 1.0
 - Supported Languages: Chinese, English, French, Spanish, German, Japanese
 - Platform: iOS
+  
+# Support
+
+If you have any questions, issues, or feedback about SenseMeter, please contact:
+
+Email: lele510666@gmail.com
+
+We will respond as soon as possible.
