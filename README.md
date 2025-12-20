@@ -31,6 +31,6 @@ These permissions are optional and can be managed in your device system settings
 
 If you have any questions, issues, or feedback about SenseMeter, please contact:
 
-Email: lele510666@gmail.com
+Email: lele510666@outlook.com
 
 We will respond as soon as possible.
