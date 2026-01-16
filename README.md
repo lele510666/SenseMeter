@@ -24,7 +24,7 @@ These permissions are optional and can be managed in your device system settings
 
 - Name: SenseMeter
 - Version: 1.0
-- Supported Languages: Chinese, English, French, Spanish, German, Japanese
+- Supported Languages: Chinese(Simplified), English, French, Spanish, German, Japanese
 - Platform: iOS
   
 # Support
